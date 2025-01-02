@@ -1,4 +1,4 @@
-Prodigy Infotech internship - Software Development - Task 01 by; Priyant Temperature Converter
+Prodigy Infotech internship - Software Development - Task 01 by; Temperature Converter
 
 Alt text
 
